@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug related to the manipulation of HTML content using innerHTML. The bug occurs when attempting to append new content to an element's existing innerHTML, potentially causing unexpected behavior or content duplication. The solution showcases the correct way to handle such situations, ensuring expected results and avoiding potential issues.
